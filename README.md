@@ -1,5 +1,7 @@
 # TheraLog - AI Therapy Assistant 🧠💙
 
+Hackathon Project By: Nikhil Konduru, Arnav Garg, and Aditya Gaur
+
 TheraLog is an accessible, free AI-powered therapy companion designed to provide mental health support without barriers. Our platform offers a judgment-free space where users can receive personalized feedback and guidance through advanced multimodal analysis.
 
 ## 🌟 Features
